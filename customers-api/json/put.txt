@@ -1,0 +1,27 @@
+{
+  "address": {
+    "city": "São Paulo",
+    "country": "Brasil",
+    "number": 292,
+    "postcode": "05727-250",
+    "street": "Rua José Gonçalves"
+  },
+  "age": 40,
+  "createdAt": "2021-05-07T04:24:38.007Z",
+  "firstName": "Mauro",
+  "id": {
+    "timestamp": 0
+  },
+  "lastName": "Sousa",
+  "motos": [
+    {
+      "brand": "Triumph",
+      "cylinders": 1200,
+      "id": {
+        "timestamp": 0
+      },
+      "model": "Speed Twin"
+    }
+  ],
+  "id": "6094c38e07cd101f52d6c6e7"
+}
